@@ -1,0 +1,36 @@
+.myheading{
+    color: aqua;
+    font-size: 50px;
+}
+.heading2{
+    color: red ;
+}
+.first{
+    background-color: gold;
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+}
+.test{
+    display: flex;
+    background-color: lightgray;
+    padding: 20px;
+
+
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    background-color: brown;
+}
+
+.paragraph3{
+    background-color: red;
+}
+
+.paragraph4{
+    background-color: blue;
+}
+
+

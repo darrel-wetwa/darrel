@@ -1,0 +1,32 @@
+form{
+    background-color: brown;
+    width: 50%;
+    margin: auto;
+    padding-left: 70px;
+    border-radius: 30px;
+    padding-top: 70px;
+
+
+}
+body{
+    background-color: tomato ;
+}
+button{
+    width: 50%;
+    padding-left: 70px;
+
+}
+
+input[type=password],[type=number],[type=text],[type=email]{
+    float: right;
+    font-size: medium;
+    margin-right: 350px;
+    width: 30%;
+}
+.x,.y,.z{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+input[type=radio]{
+    display: inline-block;
+}
